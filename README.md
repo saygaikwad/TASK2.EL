@@ -1,5 +1,3 @@
-# TASK2.EL
-This Tableau dashboard visualizes sales and profit trends across product categories, months, states, and cities using the Global Superstore dataset. 
 # Tableau Sales Dashboard
 
 This project showcases a Tableau dashboard created using the Global Superstore dataset to analyze sales and profit trends across different product categories, months, states, and cities.
